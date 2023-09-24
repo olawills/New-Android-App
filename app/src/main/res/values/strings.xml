@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NewXmlApp</string>
+    <string name = "schools">Williams</string>
+    <string name="terms">By filling this form u agreed to the terms and condition</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="date_birth">Birth Date</string>
+    <string name="country">Country</string>
+    <string name="button_text">Apply</string>
+    <string name="submit">SUBMIT</string>
+
+    <String name = "center_text">Hello Williams </String>
+</resources>
